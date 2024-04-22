@@ -19,7 +19,7 @@
 - :nerd_face: Always believe `"You are what you loved"`
 
 <br>
-
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 ##### Languages I use
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
